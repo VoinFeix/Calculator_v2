@@ -30,7 +30,7 @@ download Calculator-x86_64.AppImage from release
 
 3. Via Python:
 ```bash
-git clone https://github.com/DevManoj96/Calculator_v2.git
+git clone https://github.com/VoinFeix/Calculator_v2.git
 cd Calculator_v2
 python3 calculator.py
 ```
